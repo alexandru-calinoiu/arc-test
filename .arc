@@ -6,6 +6,7 @@ get /
 
 # Uncomment the following lines to deploy
 # 'bucket' must be in the same region as 'region' (e.g. us-west-1)
-# @aws
-# region us-west-1
-# bucket your-private-deploy-bucket
+@aws
+region us-east-1
+bucket 2370a5e6lamdatest
+
